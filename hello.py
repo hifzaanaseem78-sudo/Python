@@ -29,3 +29,5 @@ print({1,2,3,4,5})
 
 #dictionary
 print({"Name":"Hifza","Age":"22"})
+
+#comments(piece of code not executed by compiler or interpreter,used for code readability)
