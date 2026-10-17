@@ -31,3 +31,28 @@ print({1,2,3,4,5})
 print({"Name":"Hifza","Age":"22"})
 
 #comments(piece of code not executed by compiler or interpreter,used for code readability)
+
+
+#no variable declaration in python-->Dynamic typing
+#Dynamic typing(python automatically detects data type,no need to declare the data type)
+#Static typing(need to declare the data type)
+#Dynamic Binding(aik variable multiple data types store kr paye)
+#variable is not binded to specific data type
+name = "Hifza"
+print(name)
+
+#special syntax
+# a =5;b=6;c=7
+# print(a)
+# print(b)
+# print(c)
+
+a,b,c = 4,5,6
+print(a)
+print(b)
+print(c)
+
+# a = b = c =6
+# print(a)
+# print(b)
+# print(c)
