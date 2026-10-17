@@ -2,3 +2,18 @@ print("Hello World",end=' ')
 print(6)
 
 print("Pakistan","India",6,True,sep="-")
+
+#interger
+print(4)
+
+#float
+print(4.5)
+
+#boolean
+print(False)
+
+#complex
+print(4+5j)
+
+#string
+print("Heyy!Hifza here!")
