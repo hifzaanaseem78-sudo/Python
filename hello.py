@@ -58,6 +58,9 @@ print(c)
 # print(c)
 
 
-#keywords
+#keywords-->words reserved by program and have special meaning
 import keyword
 print(keyword.kwlist)
+
+#identifiers-->names used to identify a variable,function,class,modulw or other objects
+
