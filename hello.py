@@ -56,3 +56,8 @@ print(c)
 # print(a)
 # print(b)
 # print(c)
+
+
+#keywords
+import keyword
+print(keyword.kwlist)
