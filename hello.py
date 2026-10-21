@@ -75,5 +75,23 @@ print({"Name":"Hifza","Age":"22"})
 # print(sum_nums)
 
 #type
-a = 5
-print(type(a))
+# a = 5
+# print(type(a))
+
+#Type conversion
+#implicit->python converts data types by itself
+# print(4 + 5.5)
+# print(2 + 3+5j)
+# print(3.5 + 2+6j)
+
+#explicit->programmers have to tell to about type conversion
+# first_num = 5
+# second_num = 10
+# print(first_num + second_num)
+
+# print(int(5.4))
+
+first_num = int(input("Enter first number: "))
+second_num = int(input("Enter second number: "))
+sum_nums = first_num + second_num
+print(sum_nums)
