@@ -91,7 +91,45 @@ print({"Name":"Hifza","Age":"22"})
 
 # print(int(5.4))
 
-first_num = int(input("Enter first number: "))
-second_num = int(input("Enter second number: "))
-sum_nums = first_num + second_num
-print(sum_nums)
+# first_num = int(input("Enter first number: "))
+# second_num = int(input("Enter second number: "))
+# sum_nums = first_num + second_num
+# print(sum_nums)
+
+
+#Literals
+#Numeric literals
+a = 0b1010 #Binary literal
+b = 100 #decimal literal
+c = 0o310 #Octal literal
+d =0x12c #Hexadecimal literal
+print(a, b, c, d)
+
+#Float Literal
+float_1 = 10.5
+float_2 = 1.5e2
+float_3 = 1.5e-3
+print(float_1, float_2, float_3)
+
+#Complex Literal
+x = 3.14j
+print(x, x.imag, x.real)
+
+import sys
+sys.stdout.reconfigure(encoding='utf-8')
+
+#STRING LITERALS
+unicode = u"\U0001f600"
+print(unicode)
+
+
+raw_str = r"string"
+print(raw_str)
+
+#BOOLEAN LITERAL
+a = True + 1;
+print(a)
+
+#SPECIAL LITERAL-> used when we just want to declare a variable
+k = None
+print(k)
