@@ -167,3 +167,11 @@ print ("bitwise OR",x | y)
 print ("bitwise right shift",x >> 2)
 print ("bitwise left shift",y << 3)
 print ("bitwise one's complement",~x)
+
+#Assignment
+a = 3
+print(a)
+a += 3
+print(a)
+a -= 3
+print(a)
