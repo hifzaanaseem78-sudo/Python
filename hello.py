@@ -150,3 +150,11 @@ print(x >= y)
 print(x <= y)
 print(x == y)
 print(x != y)
+
+#Logical operators
+x = True
+y = False
+
+print("logical OR",x or y)
+print("logical AND",x and y)
+print("logical NOT",not x)
