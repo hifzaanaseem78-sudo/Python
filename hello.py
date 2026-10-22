@@ -158,3 +158,12 @@ y = False
 print("logical OR",x or y)
 print("logical AND",x and y)
 print("logical NOT",not x)
+
+#Bitwise
+x = 2
+y = 3
+print ("bitwise AND",x & y)
+print ("bitwise OR",x | y)
+print ("bitwise right shift",x >> 2)
+print ("bitwise left shift",y << 3)
+print ("bitwise one's complement",~x)
