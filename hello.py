@@ -175,3 +175,8 @@ a += 3
 print(a)
 a -= 3
 print(a)
+
+#identity operators
+a = 3
+b = 3
+print(a is b)
