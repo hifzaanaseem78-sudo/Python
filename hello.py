@@ -142,3 +142,11 @@ print(x + y)
 print(x - y)
 print(x * y)
 print(x / y)
+
+#comparison 
+print(x > y)
+print(x < y)
+print(x >= y)
+print(x <= y)
+print(x == y)
+print(x != y)
