@@ -180,3 +180,10 @@ print(a)
 a = 3
 b = 3
 print(a is b)
+
+#membership operators
+x = "Sargodha"
+print("S" in x)
+
+x = (1, 2, 3)
+print(5 in x)
