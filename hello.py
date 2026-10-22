@@ -133,3 +133,12 @@ print(a)
 #SPECIAL LITERAL-> used when we just want to declare a variable
 k = None
 print(k)
+
+#operators 
+#arithematic 
+x = 4
+y = 2
+print(x + y)
+print(x - y)
+print(x * y)
+print(x / y)
