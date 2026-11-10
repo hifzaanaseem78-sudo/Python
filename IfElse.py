@@ -20,10 +20,11 @@
 #     print("Email incorrect")
 
 #indentation
-firstName = "xyz"
-if firstName == "xyz":
-    print("line1")
-    if 5 == 5:
-        print("line 5")
-else:
-    print("line2")
+# firstName = "xyz"
+# if firstName == "xyz":
+#     print("line1")
+#     if 5 == 5:
+#         print("line 5")
+# else:
+#     print("line2")
+
