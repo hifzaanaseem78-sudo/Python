@@ -21,3 +21,9 @@ print(time.ctime())
 print("hello")
 time.sleep(3)
 print("world!")
+
+import os
+#for current working directory
+print(os.getcwd())
+#list all the files of the current directory
+print(os.listdir())
