@@ -11,3 +11,13 @@ print(random.randint(1,100))
 a = [1,2,3,4,5]
 random.shuffle(a)
 print(a)
+
+import time
+print(time.time())
+#current time
+print(time.ctime())
+
+#for delay
+print("hello")
+time.sleep(3)
+print("world!")
