@@ -11,3 +11,10 @@ print(b)
 
 d = str("hello")
 print(d)
+
+#concept of indexing
+#types of indexing
+#positive indexing
+print(c[0])
+#negative indexing
+print(c[-2])
