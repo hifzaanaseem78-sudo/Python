@@ -32,3 +32,9 @@ print(c[-5:-1:2])
 
 #for reversing the string
 print(c[::-1])
+
+#deleting the string
+c = "Hello"
+print(c)
+del c
+print(c)

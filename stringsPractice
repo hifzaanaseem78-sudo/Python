@@ -4,9 +4,9 @@
 # print(word[4])
 # print(len(word))
 
-word = "Artificial Intelligence"
-print(word[0:10])
-print(word[11:23])
-print(word[0:5])
-print(word[-5:])
-print(word[::-1])
+# word = "Artificial Intelligence"
+# print(word[0:10])
+# print(word[11:23])
+# print(word[0:5])
+# print(word[-5:])
+# print(word[::-1])
